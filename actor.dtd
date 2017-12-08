@@ -1,0 +1,25 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Actors (Actor)+>
+<!ATTLIST Actors
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Actor (actorID,actorRole,agency,salary)>
+<!ATTLIST Actor
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT actorID (#PCDATA)>
+<!ATTLIST actorID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT actorRole (#PCDATA)>
+<!ATTLIST actorRole
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT agency (#PCDATA)>
+<!ATTLIST agency
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT salary (#PCDATA)>
+<!ATTLIST salary
+  xmlns CDATA #FIXED ''>

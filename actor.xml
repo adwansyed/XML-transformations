@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE actor SYSTEM "actor.dtd">
+
+<Actors>
+  <Actor>
+    <actorID>1</actorID>
+    <actorRole>
+<![CDATA[
+avatar
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+disney
+]]>
+    </agency>
+    <salary>20000</salary>
+  </Actor>
+  <Actor>
+    <actorID>2</actorID>
+    <actorRole>
+<![CDATA[
+indiana jones
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+disney
+]]>
+    </agency>
+    <salary>30000</salary>
+  </Actor>
+  <Actor>
+    <actorID>3</actorID>
+    <actorRole>
+<![CDATA[
+voldemort
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+disney
+]]>
+    </agency>
+    <salary>40000</salary>
+  </Actor>
+  <Actor>
+    <actorID>4</actorID>
+    <actorRole>
+<![CDATA[
+pretty woman
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+disney
+]]>
+    </agency>
+    <salary>50000</salary>
+  </Actor>
+  <Actor>
+    <actorID>5</actorID>
+    <actorRole>
+<![CDATA[
+clown
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+disney
+]]>
+    </agency>
+    <salary>40000</salary>
+  </Actor>
+  <Actor>
+    <actorID>6</actorID>
+    <actorRole>
+<![CDATA[
+prince
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+disney
+]]>
+    </agency>
+    <salary>40000</salary>
+  </Actor>
+  <Actor>
+    <actorID>7</actorID>
+    <actorRole>
+<![CDATA[
+rabbit
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+disney
+]]>
+    </agency>
+    <salary>50000</salary>
+  </Actor>
+  <Actor>
+    <actorID>8</actorID>
+    <actorRole>
+<![CDATA[
+princess
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+motion pictures
+]]>
+    </agency>
+    <salary>50000</salary>
+  </Actor>
+  <Actor>
+    <actorID>9</actorID>
+    <actorRole>
+<![CDATA[
+hoodlum
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+fox
+]]>
+    </agency>
+    <salary>40000</salary>
+  </Actor>
+  <Actor>
+    <actorID>10</actorID>
+    <actorRole>
+<![CDATA[
+butler
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+disney
+]]>
+    </agency>
+    <salary>30000</salary>
+  </Actor>
+  <Actor>
+    <actorID>11</actorID>
+    <actorRole>
+<![CDATA[
+avatar flux
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+disney
+]]>
+    </agency>
+    <salary>20000</salary>
+  </Actor>
+  <Actor>
+    <actorID>12</actorID>
+    <actorRole>
+<![CDATA[
+candy crush
+]]>
+    </actorRole>
+    <agency>
+<![CDATA[
+disney
+]]>
+    </agency>
+    <salary>20000</salary>
+  </Actor>
+</Actors>

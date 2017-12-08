@@ -1,0 +1,17 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT CastMembers (CastMember)+>
+<!ATTLIST CastMembers
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT CastMember (actorID,moviedID)>
+<!ATTLIST CastMember
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT actorID (#PCDATA)>
+<!ATTLIST actorID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT moviedID (#PCDATA)>
+<!ATTLIST moviedID
+  xmlns CDATA #FIXED ''>

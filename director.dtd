@@ -1,0 +1,21 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Directors (Director)+>
+<!ATTLIST Directors
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Director (directorID,directorRole,salary)>
+<!ATTLIST Director
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT directorID (#PCDATA)>
+<!ATTLIST directorID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT directorRole (#PCDATA)>
+<!ATTLIST directorRole
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT salary (#PCDATA)>
+<!ATTLIST salary
+  xmlns CDATA #FIXED ''>

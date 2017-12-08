@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" version="2.0" href="movie.xsl"?>
+<!DOCTYPE movie SYSTEM "movies.dtd">
+
+<Movies>
+  <Movie>
+    <movieID>1</movieID>
+    <movieTitle>
+<![CDATA[
+titanic
+]]>
+    </movieTitle>
+    <releaseDate>2000-01-01</releaseDate>
+    <rating>10</rating>
+    <budget>1000000000</budget>
+    <gross>2000000000</gross>
+    <directorID>1</directorID>
+    <producerID>2</producerID>
+    <writerID>3</writerID>
+  </Movie>
+  <Movie>
+    <movieID>2</movieID>
+    <movieTitle>
+<![CDATA[
+shawshank redemption
+]]>
+    </movieTitle>
+    <releaseDate>2001-02-02</releaseDate>
+    <rating>9</rating>
+    <budget>79000000</budget>
+    <gross>89000000</gross>
+    <directorID>4</directorID>
+    <producerID>5</producerID>
+    <writerID>6</writerID>
+  </Movie>
+  <Movie>
+    <movieID>3</movieID>
+    <movieTitle>
+<![CDATA[
+godfather
+]]>
+    </movieTitle>
+    <releaseDate>2002-03-03</releaseDate>
+    <rating>8</rating>
+    <budget>123000000</budget>
+    <gross>145000000</gross>
+    <directorID>7</directorID>
+    <producerID>8</producerID>
+    <writerID>9</writerID>
+  </Movie>
+  <Movie>
+    <movieID>4</movieID>
+    <movieTitle>
+<![CDATA[
+dark knight
+]]>
+    </movieTitle>
+    <releaseDate>2003-02-22</releaseDate>
+    <rating>7</rating>
+    <budget>99999999</budget>
+    <gross>10000000</gross>
+    <directorID>10</directorID>
+    <producerID>1</producerID>
+    <writerID>2</writerID>
+  </Movie>
+  <Movie>
+    <movieID>5</movieID>
+    <movieTitle>
+<![CDATA[
+angry men
+]]>
+    </movieTitle>
+    <releaseDate>2004-09-23</releaseDate>
+    <rating>9</rating>
+    <budget>10000</budget>
+    <gross>100000234</gross>
+    <directorID>9</directorID>
+    <producerID>3</producerID>
+    <writerID>4</writerID>
+  </Movie>
+  <Movie>
+    <movieID>6</movieID>
+    <movieTitle>
+<![CDATA[
+schindler's list
+]]>
+    </movieTitle>
+    <releaseDate>2005-08-09</releaseDate>
+    <rating>7</rating>
+    <budget>90456987</budget>
+    <gross>109876543</gross>
+    <directorID>8</directorID>
+    <producerID>5</producerID>
+    <writerID>6</writerID>
+  </Movie>
+  <Movie>
+    <movieID>7</movieID>
+    <movieTitle>
+<![CDATA[
+pulp fiction
+]]>
+    </movieTitle>
+    <releaseDate>2006-06-30</releaseDate>
+    <rating>5</rating>
+    <budget>20000</budget>
+    <gross>10000</gross>
+    <directorID>7</directorID>
+    <producerID>8</producerID>
+    <writerID>9</writerID>
+  </Movie>
+  <Movie>
+    <movieID>8</movieID>
+    <movieTitle>
+<![CDATA[
+fight club
+]]>
+    </movieTitle>
+    <releaseDate>2007-08-22</releaseDate>
+    <rating>6</rating>
+    <budget>123456789</budget>
+    <gross>987654321</gross>
+    <directorID>3</directorID>
+    <producerID>2</producerID>
+    <writerID>10</writerID>
+  </Movie>
+  <Movie>
+    <movieID>9</movieID>
+    <movieTitle>
+<![CDATA[
+forrest gump
+]]>
+    </movieTitle>
+    <releaseDate>2008-12-12</releaseDate>
+    <rating>6</rating>
+    <budget>200000</budget>
+    <gross>300000</gross>
+    <directorID>4</directorID>
+    <producerID>9</producerID>
+    <writerID>2</writerID>
+  </Movie>
+  <Movie>
+    <movieID>10</movieID>
+    <movieTitle>
+<![CDATA[
+Beautiful Mind
+]]>
+    </movieTitle>
+    <releaseDate>2009-07-14</releaseDate>
+    <rating>4</rating>
+    <budget>300000</budget>
+    <gross>200000</gross>
+    <directorID>9</directorID>
+    <producerID>3</producerID>
+    <writerID>1</writerID>
+  </Movie>
+  <Movie>
+    <movieID>11</movieID>
+    <movieTitle>
+<![CDATA[
+titanic discovered
+]]>
+    </movieTitle>
+    <releaseDate>2000-01-01</releaseDate>
+    <rating>10</rating>
+    <budget>1000000000</budget>
+    <gross>2000000000</gross>
+    <directorID>1</directorID>
+    <producerID>2</producerID>
+    <writerID>3</writerID>
+  </Movie>
+  <Movie>
+    <movieID>12</movieID>
+    <movieTitle>
+<![CDATA[
+anacondas discovered
+]]>
+    </movieTitle>
+    <releaseDate>2000-01-01</releaseDate>
+    <rating>10</rating>
+    <budget>1000000000</budget>
+    <gross>2000000000</gross>
+    <directorID>1</directorID>
+    <producerID>2</producerID>
+    <writerID>3</writerID>
+  </Movie>
+</Movies>

@@ -1,0 +1,54 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Persons (Person)+>
+<!ATTLIST Persons
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Person (personID,sinNumber,firstName,surName,gender,eyeColor,
+                  middleName,actorID,directorID,producerID,writerID)>
+<!ATTLIST Person
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT personID (#PCDATA)>
+<!ATTLIST personID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT sinNumber (#PCDATA)>
+<!ATTLIST sinNumber
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT firstName (#PCDATA)>
+<!ATTLIST firstName
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT surName (#PCDATA)>
+<!ATTLIST surName
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT gender (#PCDATA)>
+<!ATTLIST gender
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT eyeColor (#PCDATA)>
+<!ATTLIST eyeColor
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT middleName EMPTY>
+<!ATTLIST middleName
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT actorID (#PCDATA)>
+<!ATTLIST actorID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT directorID (#PCDATA)>
+<!ATTLIST directorID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT producerID (#PCDATA)>
+<!ATTLIST producerID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT writerID (#PCDATA)>
+<!ATTLIST writerID
+  xmlns CDATA #FIXED ''>

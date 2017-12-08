@@ -1,0 +1,46 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Movies (Movie)+>
+<!ATTLIST Movies
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Movie (movieID,movieTitle,releaseDate,rating,budget,gross,
+                 directorID,producerID,writerID)>
+<!ATTLIST Movie
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT movieID (#PCDATA)>
+<!ATTLIST movieID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT movieTitle (#PCDATA)>
+<!ATTLIST movieTitle
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT releaseDate (#PCDATA)>
+<!ATTLIST releaseDate
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT rating (#PCDATA)>
+<!ATTLIST rating
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT budget (#PCDATA)>
+<!ATTLIST budget
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT gross (#PCDATA)>
+<!ATTLIST gross
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT directorID (#PCDATA)>
+<!ATTLIST directorID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT producerID (#PCDATA)>
+<!ATTLIST producerID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT writerID (#PCDATA)>
+<!ATTLIST writerID
+  xmlns CDATA #FIXED ''>
